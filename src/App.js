@@ -1,7 +1,9 @@
+import Potato from "./Potato";
 
 function App() {
   return (
-    <div className="App">
+    <div>
+      <Potato />
     </div>
   );
 }
