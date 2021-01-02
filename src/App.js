@@ -1,9 +1,9 @@
-import Potato from "./Potato";
+
 
 function App() {
   return (
     <div>
-      <Potato />
+
     </div>
   );
 }
